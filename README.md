@@ -1,6 +1,8 @@
 # MNIST Fashion - Optuna Hyperparameter Tuning
 
 This project demonstrates the use of **Optuna** for automatic hyperparameter optimization on the MNIST Fashion dataset
+![alt text](https://github.com/lyf1436/MnistFashion-Optuna/blob/main/newplot%20(6).png)
+![alt text](https://github.com/lyf1436/MnistFashion-Optuna/blob/main/download.png)
 ![alt text](https://github.com/lyf1436/MnistFashion-Optuna/blob/main/newplot%20(2).png)
 ![alt text](https://github.com/lyf1436/MnistFashion-Optuna/blob/main/newplot%20(3).png)
 ![alt text](https://github.com/lyf1436/MnistFashion-Optuna/blob/main/newplot%20(4).png)
